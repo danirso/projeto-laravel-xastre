@@ -23,7 +23,11 @@ Suba os containers do projeto
 ```sh
 docker compose up -d
 ```
-
+Caso ocorram problemas com os containers, rode os seguintes comandos
+```sh
+systemctl start docker
+gpassword -a $USER docker
+```
 
 Acessar o container
 ```sh
