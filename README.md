@@ -42,18 +42,20 @@ Gerar a key do projeto Laravel
 php artisan key:generate
 ```
 
+Migrar as tabelas para o Banco de dados
+```sh
+php artisan migrate
+```
 
 Acesse o projeto
 [http://localhost:8080](http://localhost:8080)
 
+Acesse o CRUD de matérias 
+[http://localhost:8080/materias](http://localhost:8080/materias)
+
+Acesse o CRUD de professores
+[http://localhost:8080/professores](http://localhost:8080/professores)
+
 Acesse o phpmyadmin
 [http://localhost:8081](http://localhost:8081)
 
-API de categorias e filmes:
-https://www.learn-laravel.cf/
-
-Rotas:
-- (get) /categories
-- (get) /category/{id}
-- (get) /movies
-- (get) /movie/{id}
