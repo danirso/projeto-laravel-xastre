@@ -2,7 +2,7 @@
 # Laravel Xastre
 
 ### Passo a passo
-Clone este repositório, entre na pasta e execute os comandos abaixo:
+Clone este repositório, entre na pasta e execute os comandos abaixo no terminal, recomendamos abrir a pasta pelo Visual Studio Code:
 
 Crie o Arquivo .env
 ```sh
