@@ -1,8 +1,8 @@
 
-# Laravel Template
+# Laravel Xastre
 
 ### Passo a passo
-Clone Repositório criado a partir do template, entre na pasta e execute os comandos abaixo:
+Clone este repositório, entre na pasta e execute os comandos abaixo:
 
 Crie o Arquivo .env
 ```sh
@@ -47,8 +47,10 @@ Migrar as tabelas para o Banco de dados
 php artisan migrate
 ```
 
-Acesse o projeto
+Acesse o CRUD de alunos 
 [http://localhost:8080](http://localhost:8080)
+ou
+[http://localhost:8080/alunos](http://localhost:8080/alunos)
 
 Acesse o CRUD de matérias 
 [http://localhost:8080/materias](http://localhost:8080/materias)
