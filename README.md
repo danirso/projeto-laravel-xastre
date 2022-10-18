@@ -2,8 +2,9 @@
 # Laravel Xastre
 
 <h1> Sobre o Projeto </h1>
- -Projeto consiste em desenvolver um sistema web com uma interface de front-end estruturada usando Boostrap.
- -Ferramenta que possibilita aos usuários o bom uso das funcionalidades abaixo listadas, que são:
+ -Projeto consiste em desenvolver um sistema web com uma interface de front-end estruturada usando Boostrap
+ 
+ -Ferramenta que possibilita aos usuários o bom uso das funcionalidades abaixo listadas, que são
  
 <h1> CRUD </h1>
  -Alunos -> Há um N filmes do gosto do aluno, usando principalmente API's
