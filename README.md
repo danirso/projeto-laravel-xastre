@@ -1,6 +1,26 @@
 
 # Laravel Xastre
 
+<h1> Sobre o Projeto </h1>
+ -Projeto consiste em desenvolver um sistema web com uma interface de front-end estruturada usando Boostrap.
+ -Ferramenta que possibilita aos usuários o bom uso das funcionalidades abaixo listadas, que são:
+ 
+<h1> CRUD </h1>
+ -Alunos -> Há um N filmes do gosto do aluno, usando principalmente API's
+  
+ -Professores -> RP(Registro do Professor), matéria dada e nome
+ 
+ -Materia -> Nome da matéria, alunos e professor que da cada matéria
+
+<h1> Front-End e Back-End </h1>
+  
+ -As linguagens de front e back end foram trabalhadas separadamente
+  
+ -Usamos como back e front end o frame-work Laravel
+  
+ -Banco de Dados -> My-SQL
+
+
 ### Passo a passo
 Clone este repositório, entre na pasta e execute os comandos abaixo no terminal, recomendamos abrir a pasta pelo Visual Studio Code:
 
