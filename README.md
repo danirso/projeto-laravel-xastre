@@ -21,7 +21,7 @@
  -Banco de Dados -> My-SQL
 
 
-### Passo a passo
+<h1> Passo a passo </h1>
 Clone este repositório, entre na pasta e execute os comandos abaixo no terminal, recomendamos abrir a pasta pelo Visual Studio Code:
 
 Crie o Arquivo .env
